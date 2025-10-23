@@ -1,7 +1,6 @@
-```
-json
+```json
 {
-  "name": "waicoff-checklist",
+  "name": "waicoff-checklist1",
   "private": true,
   "version": "0.1.0",
   "dependencies": {
